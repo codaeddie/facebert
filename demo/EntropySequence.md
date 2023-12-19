@@ -7,7 +7,9 @@ Prepares the entropy data for the FACE score calculation in the next step.Run th
 
 
 generate_entropy_sequences.py (based on run_entropy.py and run_entropy_batch.py)
+
 Status: Initial template set up.
+
 Next Steps: Fully implement the script, ensuring compatibility with our models and testing it with actual model outputs.
 
 ### Entropy Sequence Generation
