@@ -1,6 +1,3 @@
-# Creating the Python script for FACE Score Calculation based on the provided pseudocode.
-
-script = """
 import pandas as pd
 import argparse
 
